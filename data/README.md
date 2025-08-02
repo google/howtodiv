@@ -22,11 +22,11 @@ More details can be found on the project page ([https://github.com/google/howtod
 
 
 ## Contribute
-To learn how to contribute to this project, read [CONTRIBUTING.md] in the github repo (../docs/contributing.md).
+To learn how to contribute to this project, read [CONTRIBUTING.md](../docs/contributing.md).
 
 
 ## License
-The data is released with CC-BY-4.0 License [CC-BY-4.0](../CC-BY-4.0).
+The data is released with CC-BY-4.0 License [CC-BY-4.0](CC-BY-4.0).
 
 
 ## Citation

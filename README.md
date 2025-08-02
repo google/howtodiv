@@ -20,11 +20,11 @@ More details can be found on the project page ([https://github.com/google/howtod
 - **Andrea Colaco (Google)**
 
 ## Contribute
-To learn how to contribute to this project, read [CONTRIBUTING.md](../CONTRIBUTING.md).
+To learn how to contribute to this project, read [CONTRIBUTING.md](docs/contributing.md).
 
 ## License
-The code is released with Apache 2.0 License [LICENSE.txt](../LICENSE.txt).
-The data is released with CC-BY-4.0 License [CC-BY-4.0](../data/CC-BY-4.0).
+The code is released with Apache 2.0 License [LICENSE.txt](LICENSE).
+The data is released with CC-BY-4.0 License [CC-BY-4.0](data/CC-BY-4.0).
 
  ```
 @article{laggarwal2025howtodiv,
