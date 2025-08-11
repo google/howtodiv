@@ -1,0 +1,99 @@
+Instructions
+1. Select a pot that is slightly larger than the existing pot.
+2. Add a layer of horticultural grit to the bottom of the new pot.
+3. Place a piece of paper over the grit layer.
+4. Cut a circle from the paper and put it over the gravel.
+5. Add some compost into the bottom of the new pot.
+6. Gently tap the plant out of its current pot.
+7. Remove the top centimeter of compost from the root ball.
+8. Gently tease the roots out from the side of the plant.
+9. Loosen the roots to encourage outward growth.
+10. Ensure the plant sits correctly in the new pot.
+11. Fill in around the sides of the plant with new compost.
+12. Gently firm the new soil down around the sides of the plant.
+13. Cover the top soil surface where compost was removed with more soil.
+14. Firm the soil.
+15. Add a little grit around the plant to dress the surface.
+16. Done
+
+Dialogue
+[00:00:00, 00:00:02]
+Turn 1
+User: I want to repot this plant, but I'm not sure where to start. How do I do it?
+Expert: Okay, great! Repotting is fairly straightforward. First, you'll want to select a pot that’s only *slightly* bigger than the one your plant is currently in. Not massively larger, just enough to give the roots some room to grow. Do you have a few different pots you're considering?
+
+[00:00:02, 00:00:06]
+Turn 2
+User: I think so. This one looks a little bigger, is that okay? I’ve got it now. What’s next?
+Expert: Perfect! That looks like a good size. Now, we're going to add a layer of horticultural grit to the bottom of the new pot. About an inch or two should be good. This aids with drainage.
+
+[00:00:06, 00:00:09]
+Turn 3
+User: Okay, I've added the grit. It feels quite chunky. Now what?
+Expert: You’re doing great. Next, place a piece of paper over that grit layer. Just a standard piece of paper will do. We're doing this to stop the compost from falling through the grit.
+
+[00:00:09, 00:00:13]
+Turn 4
+User: Right, paper’s on. Feels a bit odd. What’s the purpose of the paper again?
+Expert: Good question! The paper creates a barrier to prevent the compost from washing down into the grit when you water it – keeps everything nice and tidy. Now, cut a circle from the paper just slightly smaller than the inner diameter of the pot, and put it on top of the gravel.
+
+[00:00:13, 00:00:18]
+Turn 5
+User: Done, I've cut a circle and placed it over the grit. Looks pretty neat. What do I add after this?
+Expert: Excellent. Now, put a layer of compost into the bottom of the new pot, on top of the paper. You just want enough to raise the plant up to the right height, so that the top of the rootball will be a couple of centimeters below the pot rim when we put it in.
+
+[00:00:18, 00:00:22]
+Turn 6
+User: I've added some compost. It looks… roughly right. Now for the plant! How do I get the plant out of its old pot without damaging it?
+Expert: That’s the trickiest part. Gently, gently, tap the plant's existing pot all around the sides and the base. The goal is to loosen the soil without pulling on the plant.  See if you can then gently invert the pot while supporting the plant’s stem with your other hand.
+
+[00:00:22, 00:00:26]
+Turn 7
+User: Okay, it took a bit of force, but it came out! Wow, the roots are really packed in. What do I do now?
+Expert: You’ve done well to get it out relatively undamaged! Now remove the top centimeter, roughly, of the existing compost from around the root ball.  This allows for fresh compost and encourages the roots to grow outwards.
+
+[00:00:26, 00:00:29]
+Turn 8
+User: Okay, I’ve removed the top layer. It looks a bit bare now! What's next?
+Expert: It’s good to see the root structure a bit more. Now gently tease the roots out from the sides of the plant. Don’t tug or pull hard; just gently encourage them to spread outwards.
+
+[00:00:29, 00:00:34]
+Turn 9
+User: I'm trying, some are quite stubborn. I don't want to break anything!
+Expert: That's wise – you're right to be cautious! Try loosening the roots using your fingers; don’t be afraid to gently tease them apart. The goal is to loosen the roots just enough to stimulate outward growth. This is more of a tease than a pull.
+
+[00:00:34, 00:00:38]
+Turn 10
+User: I’ve loosened them as much as I feel comfortable with, they're still quite tight. Should I put the plant in the new pot now?
+Expert: Yes, that’s right. Carefully place the plant into the centre of the new pot. Make sure it’s sitting at the right depth and that it’s stable – not leaning to one side.
+
+[00:00:38, 00:00:43]
+Turn 11
+User: Okay, it's in! It looks a bit wobbly though. What do I do with all this space around it?
+Expert: Good observation! Now fill in around the sides of the plant with new compost, using your hands to gently guide it in. Be careful not to compact it too much.
+
+[00:00:43, 00:00:47]
+Turn 12
+User: I’ve filled it with compost. It’s a bit messy. Now to pack it down?
+Expert: Yes, but gently! Gently firm the new soil down around the sides of the plant. You want it secure, but you don't want to compress the soil so much that the roots can't breathe or grow.
+
+[00:00:47, 00:00:52]
+Turn 13
+User: Okay, it feels sturdy now. There's still a bit of a hollow at the top though where I took compost off.
+Expert: Yes, exactly. Cover the top soil surface, where you removed the old compost, with a little more compost. Just enough to bring it to the original level.
+
+[00:01:52, 00:01:59]
+Turn 14
+User: Right, added more compost to the top. Should I really firm this down as well?
+Expert: Yes – lightly firm the surface soil now. This helps to settle everything and provides a stable base for watering.
+
+[00:01:59, 00:02:04]
+Turn 15
+User: Okay done! It feels good and stable now. What’s with adding grit on top? It looks… decorative?
+Expert: It is decorative, but there's a practical aspect to it too. Add a little grit around the plant to dress the surface. It helps to retain moisture, prevents soil erosion when you’re watering, and just looks nice!
+
+[00:02:04, 00:02:05]
+Turn 16
+User: Done! That looks really good. What about water?
+Expert: Fantastic! That’s it, you've successfully repotted your plant! Give it a good watering now to settle the soil. Well done, you followed all the steps perfectly.
+

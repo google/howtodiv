@@ -1,0 +1,94 @@
+Instructions
+1. Ingredients needed: oats, raisins, banana, honey, cinnamon, water, a bowl, microwave
+2. Measure 4 Tablespoons of quick-cook oats and put in bowl
+3. Measure 1/2 cup water
+4. Pour water to bowl
+5. **previously user added water into a different bowl** Transfer the water to this bowl
+6. Microwave for X seconds
+7. Add handful of raisins
+8. Stir using spoon
+9. Microwave for X seconds
+10. Stir using spoon
+11. Sprinkle cinnamon on bowl
+12. Drizzle honey in bowl
+13. Done
+
+Dialogue
+[0.0, 1.4]
+['None', 'NA']
+Turn 1
+User: Hi! Could you teach me how to make oatmeal?
+Expert: Certainly! Let's make some oatmeal. First, we'll need to gather our ingredients. Do you have everything ready? We'll need oats, raisins, a banana, honey, cinnamon, water, a bowl and access to a microwave.
+
+[1.4, 2.8]
+['None', 'NA']
+Turn 2
+User: Yep, I think so. What do I do first?
+Expert: Okay, great! Let’s start with the oats. Can you measure out 4 tablespoons of quick-cook oats and put them in the bowl?
+
+[2.9, 16.6]
+['follow_instruction', 'NA']
+Turn 3
+User: Okay, oats are measured and in the bowl. Now what?
+Expert: Fantastic! Next, let’s measure the water. Can you measure out 1/2 cup of water?
+
+[20.1, 29.4]
+['follow_instruction', 'NA']
+Turn 4
+User: 1/2 cup of water is measured. What's next?
+Expert: Excellent! Now, pour that 1/2 cup of water into the bowl with the oats.
+
+[29.5, 40.0]
+['error', 'Add water to a different bowl']
+Turn 5
+User: Whoops! I accidentally put the water in a different bowl. What do I do now?
+Expert: No problem, it happens! Can you transfer that water to the bowl with the oats, please?
+
+[41.8, 47.7]
+['correction', 'Pour water from the second bowl to the first one']
+Turn 6
+User: Okay, the water is in the bowl with the oats. Now?
+Expert: Alright! We're going to microwave it for a bit. I will tell you how long once you confirm the mixture is in the microwave-safe bowl.
+
+[57.3, 89.1]
+['follow_instruction', 'NA']
+Turn 7
+User: Okay, done with microwaving. What do I do now?
+Expert: Wonderful. Now, add a handful of raisins to the oatmeal. Just a small handful – enough to give it some sweetness and texture.
+
+[99.5, 107.4]
+['follow_instruction', 'NA']
+Turn 8
+User: Okay, raisins added. Now?
+Expert: Now let’s stir it using a spoon. Make sure you combine the raisins and the oats with the water really well.
+
+[109.3, 118.8]
+['modification', 'Stir using knife']
+Turn 9
+User: Okay I think it’s pretty well stirred. What do I need to do now?
+Expert: Very good! It's time for another quick microwave. Just another burst to heat it through again.
+
+[128.0, 189.4]
+['follow_instruction', 'NA']
+Turn 10
+User: Just finished microwaving. Should I stir it again?
+Expert: Yes, please do. Give it another good stir using the spoon.
+
+[199.3, 211.7]
+['follow_instruction', 'NA']
+Turn 11
+User: Okay, all nice and smooth.
+Expert: Fantastic! Now, sprinkle cinnamon on top of the oatmeal in the bowl.
+
+[221.8, 233.3]
+['follow_instruction', 'NA']
+Turn 12
+User: Cinnamon’s been added. Anything else?
+Expert: Almost done! Now, drizzle some honey on top. How much honey is up to your taste - add as much or as little as you like to make it sweeter.
+
+[236.6, 246.1]
+['modification', 'Pour sugar instead of honey']
+Turn 13
+User: Honey drizzled! All done, I think?
+Expert: You are absolutely right! Your oatmeal is done! Enjoy!
+

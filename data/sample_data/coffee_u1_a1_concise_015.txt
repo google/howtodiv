@@ -1,0 +1,105 @@
+Instructions
+1. Ingredients needed: coffee beans, water, paper filter, mug, kettle, dripper, coffee grinder
+2. Put dripper on mug
+3. Fold paper filter in half to create semi-circle
+4. Fold it in half again to create quarter-circle
+5. Place paper filter in dripper and spread it into cone
+6. Measure 12 ounces of cold water
+7. Transfer water to kettle
+8. Weigh 25 grams of coffee beans
+9. Put coffee beans in coffee grinder
+10. Grind coffee for 20 seconds
+11. Transfer grounds to filter cone
+12. Put dripper on mug
+13. Check water temperature
+14. Pour a small amount of water on grounds
+15. Slowly pour the rest of water in circular motion
+16. Discard paper filter and coffee grounds
+17. Done
+
+Dialogue
+[0.0, 1.2]
+Turn 1
+User: How do I make coffee?
+Expert: Great! Let’s start with gathering our ingredients. Do you have everything we need: coffee beans, water, a paper filter, a mug, a kettle, a dripper, and a coffee grinder?
+
+[1.2, 2.4]
+Turn 2
+User: Yes, I think so.
+Expert: Perfect! Now, can you place the dripper on top of the mug?
+
+[2.5, 5.5]
+Turn 3
+User: Okay, done.
+Expert: Good! Next, take the paper filter. Can you fold it in half to create a semi-circle?
+
+[5.6, 17.1]
+Turn 4
+User: Like this?
+Expert: That's it! Now fold it in half *again* to create a quarter-circle shape.
+
+[17.2, 21.5]
+Turn 5
+User: Alright.
+Expert: Excellent! Now, carefully place the folded paper filter into the dripper and spread it out to form a cone shape inside.
+
+[21.6, 30.9]
+Turn 6
+User: Okay, I've placed it.
+Expert: Great job. Now, let’s measure 12 ounces of cold water. Do you have a way to measure that easily?
+
+[32.7, 51.5]
+Turn 7
+User: Yes, I have a measuring cup.
+Expert: Wonderful! Transfer that 12 ounces of water into the kettle, please.
+
+[51.6, 64.4]
+Turn 8
+User: Done.
+Expert: Fantastic! Now we need some coffee beans. Weigh out exactly 25 grams. Let’s aim for precision here.
+
+[65.2, 86.8]
+Turn 9
+User: Just a sec… Okay, 25 grams, got it.
+Expert: Excellent. Now place those coffee beans into the coffee grinder.
+
+[86.9, 94.2]
+Turn 10
+User: Done.
+Expert: Okay, we’re going to grind those beans now. Grind for about 20 seconds.
+
+[94.3, 122.2]
+Turn 11
+User: All done with the grinding!
+Expert: Perfect! Now, carefully transfer the coffee grounds into the filter cone. Try to avoid spilling.
+
+[122.3, 139.2]
+Turn 12
+User: Okay, transferred them in.
+Expert: Really well done! Now carefully place the dripper containing the grounds, back on top of your mug.
+
+[139.3, 142.2]
+Turn 13
+User: Okay, dripper's back on the mug.
+Expert: That's good. Let's check the water. We need it between 195 - 205 degrees Fahrenheit for the perfect extraction. Is that warm enough?
+
+[142.3, 341.4]
+Turn 14
+User: Yes, it appears to be.
+Expert: Good! Let’s start the brewing process. Gently pour a small amount, maybe just a tablespoon or so, of the hot water over the coffee grounds.
+
+[341.5, 352.5]
+Turn 15
+User: Okay, I poured a little water.
+Expert: Now, slowly and steadily pour the *rest* of the water in a slow, circular motion, ensuring all the grounds are evenly saturated. Keep the water level below the edge of the filter.
+
+[369.2, 503.7]
+Turn 16
+User: Right, carefully pouring around in a circle... done!
+Expert: Wonderful! Now once the dripping has stopped, it's time to clean up. Discard the paper filter and the used coffee grounds.
+
+[549.0, 561.5]
+Turn 17
+User: Okay, done with that.
+Expert: Fantastic! You've successfully made a cup of coffee. Enjoy!
+

@@ -1,0 +1,105 @@
+Instructions
+1. Park both cars in a safe place with sufficient space between them.
+2. Ensure both vehicles are in park or neutral and the handbrakes are engaged.
+3. Turn off the engine of the donor car.
+4. Open the bonnets of both cars and locate the batteries.
+5. Verify that both batteries are 12 volts.
+6. Identify the positive (red) and negative (black) terminals on each battery.
+7. If necessary, clean battery terminals with a cloth to reveal the positive and negative symbols.
+8. Connect the red jumper cable to the positive terminal of the flat battery.
+9. Attach the other end of the red jumper cable to the positive terminal of the donor battery.
+10. Connect the black jumper cable to the negative terminal of the donor battery.
+11. Attach the free end of the black jumper cable to a solid metal part of the car with the flat battery.
+12. Ensure the jumper cables are clear from any moving parts, exhaust or drive belts.
+13. Start the engine of the donor vehicle and allow it to run for a few minutes at around two thousand revs a minute.
+14. Start the engine of the car with the flat battery.
+15. Let the jump-started engine fast idle for at least two minutes.
+16. Carefully disconnect the jumper cables in reverse order, beginning with the cable connected to the car body.
+17. Done
+
+Dialogue
+[00:00:00, 00:00:09]
+Turn 1
+User: Hi, I need to jump start my car, but I have no idea where to begin! Can you guide me through the process?
+Expert: Absolutely! First thing's first, we need to park both cars in a safe place. Make sure there's enough space between them so the jumper cables can reach comfortably and we aren't creating any hazards. Can you do that for me now?
+
+[00:00:09, 00:00:11]
+Turn 2
+User: Okay, cars are parked facing each other, looks like the cables will reach. What do I do next?
+Expert: Great! Now, let's make sure both cars are securely in park (or neutral if automatic) and, very importantly, their handbrakes are firmly engaged. Safety first! Once that’s done, let me know.
+
+[00:00:11, 00:00:12]
+Turn 3
+User: Handbrakes are on, both cars are in Park. Ready!
+Expert: Excellent. Now turn off the engine in the car that has a good battery -- that's the 'donor' car. Go ahead & switch that off.
+
+[00:00:12, 00:00:20]
+Turn 4
+User: Donor car's engine is off. Now what?
+Expert: Good. Now, we need to open the bonnets (hoods) of both cars and locate the batteries. It's usually fairly easy, but sometimes a bit tucked away. Can you do that, and let me know when you have the batteries in sight?
+
+[00:00:23, 00:00:27]
+Turn 5
+User: Found both. Okay, batteries are both visible now. How do I know if they are even compatible?
+Expert: Good job finding them! Before we connect anything, we need to verify that both batteries are 12 volts. Typically, this is marked on the battery itself. Check both of them, what numbers do you see?
+
+[00:00:27, 00:00:31]
+Turn 6
+User: Both say "12V" on them, so they're the same.
+Expert: Perfect. That means we can safely proceed. Now, look closely at each battery. You'll see two terminals, one marked with a plus sign (+) and one with a minus sign (-). These are the positive and negative terminals, respectively. Can you identify them on both batteries?
+
+[00:00:36, 00:00:39]
+Turn 7
+User: Okay, I think I see them. Red (+) and Black (-). But they're a little dirty.
+Expert: You're right on track identifying them. Since they're dirty, if you have a cloth, clean the battery terminals lightly. Just to reveal the positive and negative signs clearly; it prevents any accidental incorrect connection.
+
+[00:00:43, 00:00:48]
+Turn 8
+User: Cleaned them! Now I can see the symbols much better.
+Expert: Great! Now, grab the red jumper cable. Carefully connect one end to the positive terminal of the flat battery – the one with your car.
+
+[00:00:57, 00:00:59]
+Turn 9
+User: Red cable is connected to the positive terminal on my battery. What now?
+Expert: Excellent. Now, take the *other* end of that same red jumper cable and attach it to the positive terminal of the good battery - on the donor car.
+
+[00:00:59, 00:01:02]
+Turn 10
+User: Okay, both ends of the red cable are connected – one on each positive terminal.
+Expert: Perfect. Now for the black cable. Connect one end of the black jumper cable to the negative terminal of the *donor* battery.
+
+[00:01:06, 00:01:09]
+Turn 11
+User: Black cable's on the negative terminal of the donor car's battery. What about the other end?
+Expert: Don't connect the other end of the black cable to the negative terminal of your flat battery. Instead, attach it to a solid metal part of *your* car - something unpainted like a strut or frame. This creates a safe ground.
+
+[00:01:09, 00:01:14]
+Turn 12
+User: Okay, black cable is now attached to a metal strut under the hood of my car. Should I double check anything?
+Expert: That’s good, always good to check! Before we go further, just make sure both jumper cables aren't touching any moving engine parts, the exhaust, or any drive belts. It is crucial to prevent them from getting damaged or causing sparks when the donor car starts.
+
+[00:01:19, 00:01:23]
+Turn 13
+User: Cables are clear of everything, nothing seems to be moving near them. All good!
+Expert: Okay. Now, ask someone to start the engine of donor vehicle and let it run for a few minutes – aim for around two thousand revs a minute. This will help transfer some charge to your battery. Tell me when the donor car is running.
+
+[00:01:30, 00:01:34]
+Turn 14
+User: The donor car is running now, revving a bit.
+Expert: Great. Now, and this is the moment of truth, try to start the engine of your car – the one with the flat battery.
+
+[00:01:38, 00:01:39]
+Turn 15
+User: It started! Woohoo!
+Expert: Fantastic! Now, let the jump-started engine fast idle for at least two minutes. This lets your alternator start charging the battery again. Don’t turn it off just yet. Just let it run.
+
+[00:01:39, 00:01:44]
+Turn 16
+User: Two minutes have passed, engine's still running.
+Expert: Excellent. Now, we need to carefully disconnect the jumper cables, *in reverse order*. That means first remove the black cable from the metal part of your car.
+
+[00:01:45, 00:01:49
+Turn 17
+User: Okay, cables are removed. Car’s still running! Thanks so much for your help!
+Expert: You're very welcome! And you're all done! Remember to get your battery checked by a mechanic to see why it went flat in the first place. Have a safe drive!
+

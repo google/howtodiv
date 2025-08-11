@@ -92,33 +92,31 @@ ax.spines['bottom'].set_linewidth(0.5)
 plt.show()
 
 # Task-wise Score Analysis
-taskwise_bleu_score_list = defaultdict(list)
+taskwise_llmj_score_list = defaultdict(list)
 for file in score_list:
   task = file.split('/')[-2]
-  if 'parse' in task or 'mod' in task:
-    task = task.split('_')[0]
-  taskwise_bleu_score_list[task].extend(score_list[file]['bleu_score'])
+  task = task.replace('parse', 'concise').replace('mod', 'error')
+  taskwise_llmj_score_list[task].extend(score_list[file]['llmj_score'])
+taskwise_avg_llmj_score = {}
+for task in taskwise_llmj_score_list:
+  taskwise_avg_llmj_score[task] = np.mean(taskwise_llmj_score_list[task])
 
-taskwise_avg_bleu_score = {}
-for task in taskwise_bleu_score_list:
-  taskwise_avg_bleu_score[task] = np.mean(taskwise_bleu_score_list[task])
+values = list(taskwise_avg_llmj_score.values())
+categories = list(taskwise_avg_llmj_score.keys())
 
-values = list(taskwise_avg_bleu_score.values())
-plt.figure(figsize=(10, 6))
-plt.bar(
-    list(taskwise_avg_bleu_score.keys()),
-    values,
-    color=['skyblue', 'lightcoral', 'lightgreen', 'gold', 'plum', 'darkgrey',
-           'b', 'coral',],
-)
-plt.xlabel('Categories', fontsize=12)
-plt.ylabel('Values', fontsize=12)
-plt.title('BLEU Scores for different tasks', fontsize=14, fontweight='bold')
-plt.xticks(rotation=45, ha='right')
-plt.yticks(fontsize=10)
+colors = plt.cm.tab20b_r(np.linspace(0, 1, len(categories))) 
+# 'Spectral', 'plasma', 'magma', 'cividis', 'tab20', 'viridis'
+fig, ax = plt.subplots(figsize=(12, 7))
+ax.bar(categories, values, color=colors)
+
+ax.set_title('LLM-as-a-judge Scores for different tasks', fontsize=16, fontweight='bold')
+ax.set_xlabel('Task Categories', fontsize=14)
+ax.set_ylabel('Scores', fontsize=14)
+plt.xticks(rotation=45, ha='right', fontsize=12)
 plt.grid(axis='y', linestyle='--', alpha=0.7)  # Add a subtle grid
 plt.tight_layout()
 plt.show()
+
 
 # Data scores across User types
 metrics = {'bleu_score', 'llmj_score', 'rouge1', 'rouge2'}
