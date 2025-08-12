@@ -5,10 +5,11 @@ This archive contains dialogues, instructions and associated video-clips for How
 
 ## Organization of folder
 
-1. test_ids.txt: Data recording session ID's corresponding to test split
-2. train_ids.txt: Data recording session ID's corresponding to train split
+1. test_ids.txt: Data recording session ID's corresponding to testing split
+2. train_ids.txt: Data recording session ID's corresponding to training split
+3. val_ids.txt: Data recording session ID's corresponding to validation split
 
-3. NIV DIV: Data for the tasks corresponding to narrated instruciton video dataset - changing tire, making coffee, jump car battery , and repotting plant. Within each subdirectory, there are 2 files for a recording:
+4. NIV DIV: Data for the tasks corresponding to narrated instruciton video dataset - changing tire, making coffee, jump car battery , and repotting plant. Within each subdirectory, there are 2 files for a recording:
     1. *.txt contains only the instruction steps
     2. *_dialogue.txt contains the dialogues, instructions and videosteps for the given session. Videosteps are represented as intervals corresponding to videos present in NIV dataset (can be downloaded from https://www.di.ens.fr/willow/research/instructionvideos/)
 
