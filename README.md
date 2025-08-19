@@ -1,7 +1,7 @@
-# Generating Dialogues from Egocentric Instructional Videos for Task Assistance: Dataset, Method and Benchmark
+# HowToDIV Dataset: Dialogues, Instructions and Videos for Task Assistance
 
-This repo contains the code and data for building HowToDIV dataset and benchmark evaluations.
-
+This repo contains the code and data for constructing HowToDIV dataset and the benchmark from the paper [``Generating Dialogues from Egocentric Instructional Videos for Task Assistance: Dataset, Method and Benchmark``](https://arxiv.org/abs/2508.11192).
+ 
 ## Overview
 Many everyday tasks ranging from fixing appliances, cooking recipes to car maintenance require expert knowledge,  especially when tasks are complex and multi-step. Despite growing interest in AI agents, there is a dearth of dialogue-video datasets grounded for real world task assistance. In this paper, we propose a simple yet effective approach that transforms single-person instructional videos into task-guidance two-person dialogues, aligned with fine grained steps and video-clips. Our fully automatic approach, powered by large language models, offers an efficient alternative to the substantial cost and effort required for manual data collection. Using this technique, we build HowToDIV, a large-scale dataset containing 507 conversations, 6636 question-answer pairs and 24 hours of videoclips across diverse tasks in cooking, mechanics, and planting. Each session includes multi-turn conversation where an expert teaches a novice user how to perform a task step by step, while observing user's surrounding through a camera and microphone equipped wearable device. We establish the baseline benchmark performance on HowToDIV dataset through Gemma-3 model for future research on this new task of dialogues for procedural-task assistance.
 
